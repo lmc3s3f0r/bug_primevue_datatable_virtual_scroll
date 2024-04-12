@@ -22,7 +22,8 @@
         </template>
       </Column>
     </DataTable>
-    TOTAL ROWS: {{ rows.length }}
+    <br />
+    <div>TOTAL ROWS: {{ rows.length }}</div>
   </div>
 </template>
 
